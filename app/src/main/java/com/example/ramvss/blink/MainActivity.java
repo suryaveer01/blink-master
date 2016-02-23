@@ -126,6 +126,7 @@ import android.widget.Toast;
 import android.widget.VideoView;
 
 public class MainActivity extends Activity {
+    // new project test to see commit
 
     // Activity request codes
     private static final int CAMERA_CAPTURE_IMAGE_REQUEST_CODE = 100;
